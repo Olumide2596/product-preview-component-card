@@ -119,6 +119,7 @@ p {
     .container {
         flex-direction: column;
         width: 90%;
+        min-width: 300px;
     }
 
     h1 {
